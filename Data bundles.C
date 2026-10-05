@@ -1,3 +1,10 @@
+//program to display data bundles
+/*
+Author: Bildad Gachau
+Registration number: BCS-03-0135/2026
+Description: Data bundles
+Date:04/10/2026
+*/
 #include <stdio.h>
 
 int main() {
