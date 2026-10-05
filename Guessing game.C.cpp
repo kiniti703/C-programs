@@ -1,3 +1,10 @@
+//program to display guessing game
+/*
+Author: Bildad Gachau
+Registration number: BCS-03-0135/2026
+Description: guessing game
+Date: 05/10/2026
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
