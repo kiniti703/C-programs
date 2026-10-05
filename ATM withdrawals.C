@@ -1,3 +1,10 @@
+//program to withdraw from an ATM
+/*
+Author: Bildad Gachau
+Registration number: BCS-03-0135/2026
+Description: money witdrawal program
+Date: 05/10/2026
+*/
 #include <stdio.h>
 
 int main() {
